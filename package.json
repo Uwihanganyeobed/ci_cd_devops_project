@@ -1,0 +1,17 @@
+{
+  "name": "ci_cd_devops_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
