@@ -8,6 +8,7 @@ app.get('/user', (req,res)=>{
   res.send("This is users route")
 });
 
+
 app.listen(3000, () => {
   console.log('Server is running on port 3000');
 });
